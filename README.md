@@ -8,5 +8,4 @@ Hamdan-Jamal/Hamdan-Jamal is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # Welcome
-- This is my kingdom
 - Drive safe, because your mother is always waiting for you ((()))
